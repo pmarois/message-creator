@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MessageCreator</string>
+    <string name="number_of_SMS">Number of messages to insert/delete :</string>
+    <string name="contact_number">Contact number :</string>
+    <string name="average_word_size">Average words size :</string>
+    <string name="insert">Insert into database</string>
+    <string name="delete">Delete from database</string>
+
+</resources>
